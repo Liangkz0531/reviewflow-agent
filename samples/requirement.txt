@@ -1,0 +1,1 @@
+实现一个 Python 函数 summarize_scores(scores)。它接收成绩列表，忽略 None，校验所有成绩都在 0 到 100 之间，返回最高分、最低分、平均分和有效数量；空列表或全部为 None 时抛出 ValueError。
